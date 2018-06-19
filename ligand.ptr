@@ -1,0 +1,24 @@
+#here is the parameter file in 2014/9/15 by seanm
+%in /home/biohadoop/PUDOCK/1013
+%out result  
+%%program perl
+%%main react2.pl
+%%LIG c8h15no6 c3h8o3 c6h12o6
+%%Rec 1QU6 1ZIW 2A0Z 2Z62 2Z7X 2Z80
+%%spacing(A) 0.5
+%%mode 1
+%%lows 0
+%%highs 0.3 
+%%Boxnumber 9999
+%%aloha 0
+%%gnes(probe) 256000
+%%factor 3.2
+%%factor2 4.2
+%%sw 3
+%%sw2 1
+%%sw3 3
+%%dpr 7.5
+%%mp 0.7
+%%dr 1 1.2 1.4 1.6 1.8 2 2.2 2.4 2.6 2.8 3
+%%pwrl 0
+
